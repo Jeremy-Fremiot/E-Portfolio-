@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -90,7 +89,7 @@
           <!-- Hero Authentic Portrait -->
           <div class="hero-portrait-wrap reveal">
             <figure class="img-frame hero-portrait-frame">
-              <img src="_assets/media/e8cc4fed1b0969ca418714684d86fc0e.jpg" alt="Portrait de Jérémy Frémiot, élève-ingénieur" width="210" height="315">
+              <img src="e8cc4fed1b0969ca418714684d86fc0e.jpg" alt="Portrait de Jérémy Frémiot, élève-ingénieur" width="210" height="315">
             </figure>
             <span class="caption">Jérémy Frémiot </span>
           </div>
