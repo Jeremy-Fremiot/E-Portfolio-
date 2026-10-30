@@ -677,7 +677,15 @@
         <div class="video-container reveal">
           <div class="photo-placeholder-box video-placeholder" data-placeholder="video">
             <div class="placeholder-inner">
-              <iframe width="560" height="315" src="https://youtu.be/LMuNXWfVszw" frameborder="0" allowfullscreen></iframe>
+              <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/LMuNXWfVszw"
+              title="Lecteur vidéo YouTube"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+              </iframe>
             </div>
           </div>
         </div>
