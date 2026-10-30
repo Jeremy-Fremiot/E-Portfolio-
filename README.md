@@ -678,7 +678,7 @@
           <div class="photo-placeholder-box video-placeholder" data-placeholder="video">
             <div class="placeholder-inner">
               <video width="640" height="360" controls poster="image.png">
-                <source src="[https://youtu.be/LMuNXWfVszw](https://youtu.be/LMuNXWfVszw)" type="video/mp4">
+                <source src="https://youtu.be/LMuNXWfVszw" type="video/mp4">
                   Your browser does not support HTML5 video playback.
               </video>
             </div>
