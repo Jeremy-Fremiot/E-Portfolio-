@@ -677,7 +677,7 @@
           <div class="photo-placeholder-box video-placeholder" data-placeholder="video">
             <div class="placeholder-inner">
               <video width="640" height="360" controls poster="image.png">
-                <source src="_assets/WIN_20261028_12_26_06_Pro.mp4" type="video/mp4">
+                <source src="WIN_20261028_12_26_06_Pro.mp4" type="video/mp4">
                   Your browser does not support HTML5 video playback.
               </video>
             </div>
