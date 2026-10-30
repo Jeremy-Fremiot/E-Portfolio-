@@ -113,7 +113,7 @@
         </div>
       </div>
     </section>
-
+    
        <!-- ======================================================================
          SECTION 2 — CV / INFOS PERSONNELLES
          ====================================================================== -->
@@ -171,13 +171,6 @@
               </a>
             </div>
           </div>
-
-          <!-- Professional Portrait in CV section -->
-          <! div class="cv-media reveal">
-            <!figure class="img-frame cv-portrait-frame">
-              <! img src="imagepro.jpg" width="1000" height="1000" loading="lazy">
-            </! figure>
-             </ !div>
         </div>
       </div>
     </section>
