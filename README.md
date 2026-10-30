@@ -677,10 +677,7 @@
         <div class="video-container reveal">
           <div class="photo-placeholder-box video-placeholder" data-placeholder="video">
             <div class="placeholder-inner">
-              <video width="640" height="360" controls poster="image.png">
-                <source src="https://youtu.be/LMuNXWfVszw" type="video/mp4">
-                  Your browser does not support HTML5 video playback.
-              </video>
+              <iframe width="560" height="315" src="https://youtu.be/LMuNXWfVszw" frameborder="0" allowfullscreen></iframe>
             </div>
           </div>
         </div>
