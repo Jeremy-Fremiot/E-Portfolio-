@@ -9,7 +9,7 @@
   <meta property="og:title" content="Jérémy Frémiot — Portfolio d'Ingénieur">
   <meta property="og:description" content="Élève-ingénieur à Toulouse INP ENSEEIHT, filière Mécanique des fluides, énergétique et environnement.">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="_assets/media/e8cc4fed1b0969ca418714684d86fc0e.jpg">
+  <meta property="og:image" content="e8cc4fed1b0969ca418714684d86fc0e.jpg">
 
   <!-- Favicon / Web Icon -->
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22 font-family=%22serif%22 fill=%22%23C4553A%22>JF</text></svg>">
@@ -175,7 +175,7 @@
           <!-- Professional Portrait in CV section -->
           <! div class="cv-media reveal">
             <!figure class="img-frame cv-portrait-frame">
-              <! img src="_assets/media/imagepro.jpg" width="1000" height="1000" loading="lazy">
+              <! img src="imagepro.jpg" width="1000" height="1000" loading="lazy">
             </! figure>
              </ !div>
         </div>
@@ -235,7 +235,7 @@
           <!-- Institutional Context with Authentic INP ENSEEIHT Logo -->
           <aside class="education-aside reveal">
             <div class="school-logo-frame">
-              <img src="_assets/media/efc665ec953c87135229c95df31b0627.png" alt="Logo officiel Toulouse INP — ENSEEIHT" width="270" height="187" loading="lazy">
+              <img src="efc665ec953c87135229c95df31b0627.png" alt="Logo officiel Toulouse INP — ENSEEIHT" width="270" height="187" loading="lazy">
             </div>
             <p class="education-aside-text">
               L'<strong>ENSEEIHT</strong> (École Nationale Supérieure d'Électrotechnique, d'Électronique, d'Informatique, d'Hydraulique et des Télécommunications) is a leading public engineering school, recognised for its excellence in the field of fluid mechanics and sustainable technologies.
@@ -298,35 +298,35 @@
           <div class="erasmus-full-gallery reveal">
             <div class="erasmus-gallery-grid">
               <figure class="img-frame">
-                <img src="_assets/media/78214d5fde291368dfd598df4c140d91.jpg" alt="Atelier de travail collaboratif Erasmus" width="1080" height="1080" loading="lazy">
+                <img src="78214d5fde291368dfd598df4c140d91.jpg" alt="Atelier de travail collaboratif Erasmus" width="1080" height="1080" loading="lazy">
                 <span class="caption">Ecological collaborative workshop</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/c6b6212a9b2d76805e2cd0cbc58b327e.jpg" alt="Échange étudiant européen" width="1080" height="1080" loading="lazy">
+                <img src="c6b6212a9b2d76805e2cd0cbc58b327e.jpg" alt="Échange étudiant européen" width="1080" height="1080" loading="lazy">
                 <span class="caption">European Student Exchange</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/68215c4e82184275ba7bd64c76e7c0a9.jpg" alt="Délégation Seeds for Tomorrow" width="1080" height="998" loading="lazy">
+                <img src="68215c4e82184275ba7bd64c76e7c0a9.jpg" alt="Délégation Seeds for Tomorrow" width="1080" height="998" loading="lazy">
                 <span class="caption">Delegation Seeds for Tomorrow</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/7aee179e415a8d87829af5e0a196774b.jpg" alt="Séjour d'étude en Espagne" width="1080" height="810" loading="lazy">
+                <img src="7aee179e415a8d87829af5e0a196774b.jpg" alt="Séjour d'étude en Espagne" width="1080" height="810" loading="lazy">
                 <span class="caption">Travel to Spain &bull; Field activities</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/f16049801a8d97aaa587c7ff6bac8e3c.jpg" alt="Séjour en Finlande" width="1080" height="810" loading="lazy">
+                <img src="f16049801a8d97aaa587c7ff6bac8e3c.jpg" alt="Séjour en Finlande" width="1080" height="810" loading="lazy">
                 <span class="caption">Travel to Finland &bull; Cooperation</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/da1b37b56d1bd93bfe3ca0f2ea859681.png" alt="Activités centrées sur l'écologie" width="1200" height="1600" loading="lazy">
+                <img src="da1b37b56d1bd93bfe3ca0f2ea859681.png" alt="Activités centrées sur l'écologie" width="1200" height="1600" loading="lazy">
                 <span class="caption">Environmental Projects</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/10fa65f13b1a791fb97ebeb83ca67fee.jpg" alt="Découverte et étude des écosystèmes" width="1080" height="810" loading="lazy">
+                <img src="10fa65f13b1a791fb97ebeb83ca67fee.jpg" alt="Découverte et étude des écosystèmes" width="1080" height="810" loading="lazy">
                 <span class="caption">Ecosystem studies</span>
               </figure>
               <figure class="img-frame">
-                <img src="_assets/media/6987b411ae5035093bf67e600cde7b29.png" alt="Accueil des étudiants étrangers" width="2048" height="1536" loading="lazy">
+                <img src="6987b411ae5035093bf67e600cde7b29.png" alt="Accueil des étudiants étrangers" width="2048" height="1536" loading="lazy">
                 <span class="caption">Reception of foreign delegations</span>
               </figure>
             </div>
@@ -358,7 +358,7 @@
             </p>
           </div>
           <div class="interest-photo-frame">
-                  <img src ="_assets/images/SNU.jpg" loading="lazy">
+                  <img src ="SNU.jpg" loading="lazy">
           </div>
 
           <div class="snu-content reveal">
@@ -374,7 +374,7 @@
             </div>
           </div>
           <div class="interest-photo-frame">
-                  <img src ="_assets/images/interetgeneral.jpg" loading="lazy">
+                  <img src ="interetgeneral.jpg" loading="lazy">
         
           </div>
           
@@ -413,7 +413,7 @@
           <!-- Club 1: CAN7 -->
           <article class="club-card reveal">
             <div class="club-logo-box">
-              <img src="_assets/media/37c6533fa39ecb2053cb43494a59480f.png" alt="Logo officiel CAN7 ENSEEIHT" width="500" height="299" loading="lazy">
+              <img src="37c6533fa39ecb2053cb43494a59480f.png" alt="Logo officiel CAN7 ENSEEIHT" width="500" height="299" loading="lazy">
             </div>
             <span class="club-code">01 / SOUND &amp; LIGHT</span>
             <h3 class="club-name">CAN7</h3>
@@ -422,7 +422,7 @@
           <!-- Club 2: PHOTO7 -->
           <article class="club-card reveal">
             <div class="club-logo-box">
-              <img src="_assets/media/38f5d55b4ad201691917550e349cd4cc.png" alt="Logo officiel PHOTO7 ENSEEIHT" width="640" height="640" loading="lazy">
+              <img src="38f5d55b4ad201691917550e349cd4cc.png" alt="Logo officiel PHOTO7 ENSEEIHT" width="640" height="640" loading="lazy">
             </div>
             <span class="club-code">02 / PHOTOGRAPHY</span>
             <h3 class="club-name">PHOTO7</h3>
@@ -431,7 +431,7 @@
           <!-- Club 3: 7fe Place -->
           <article class="club-card reveal">
             <div class="club-logo-box">
-              <img src="_assets/images/safe_place.png" alt="Logo officiel 7fe Place" width="1000" height="1000" loading="lazy">
+              <img src="safe_place.png" alt="Logo officiel 7fe Place" width="1000" height="1000" loading="lazy">
             </div>
             <span class="club-code">03 / User-friendly &amp; SECURITY </span>
             <h3 class="club-name">7fe Place</h3>
@@ -440,7 +440,7 @@
           <!-- Club 4: Human7 -->
           <article class="club-card reveal">
             <div class="club-logo-box">
-              <img src="_assets/media/734c1f5e718116f5252e291bf5b6b8d1.png" alt="Logo officiel Human7" width="640" height="360" loading="lazy">
+              <img src="734c1f5e718116f5252e291bf5b6b8d1.png" alt="Logo officiel Human7" width="640" height="360" loading="lazy">
             </div>
             <span class="club-code">04 / SOLIDARITY &amp; HUMANITARIAN</span>
             <h3 class="club-name">Human7</h3>
@@ -449,7 +449,7 @@
           <!-- Club 5: TVn7 (Placeholder for authentic/custom logo) -->
           <article class="club-card reveal">
             <div class="club-logo-box">
-              <img src="_assets/media/dd2c1d2896beb378f030408dd6469bc5.png" alt="logo officiel TVn7"  width="440" height="440" loading="lazy">
+              <img src="dd2c1d2896beb378f030408dd6469bc5.png" alt="logo officiel TVn7"  width="440" height="440" loading="lazy">
             </div>
             <span class="club-code">05 / MEDIA &amp; VIDEO</span>
             <h3 class="club-name">TVn7</h3>
@@ -526,7 +526,7 @@
               <!-- Authentic TIPE Image from Canva -->
               <div class="tipe-figure-item">
                 <figure class="interest-photo-frame">
-                  <img src="_assets/media/21be7fa7cc585e4eeb6cb38829eb25c5.png" alt="Schéma et banc moteur pour l'étude des freins à courants de Foucault" class="" loading="lazy">
+                  <img src="21be7fa7cc585e4eeb6cb38829eb25c5.png" alt="Schéma et banc moteur pour l'étude des freins à courants de Foucault" class="" loading="lazy">
                 </figure>
                 <span class="caption">Fig. 01 &mdash; Experimental test bench for eddy current linear brake</span>
               </div>
@@ -534,7 +534,7 @@
               <!-- Maquette 1 -->
               <div class="tipe-figure-item">
                 <figure class="interest-photo-frame">
-                  <img src="_assets/images/maquette1.png" alt="Première maquette expérimentale du frein rotatif à courants de Foucault" loading="lazy">
+                  <img src="maquette1.png" alt="Première maquette expérimentale du frein rotatif à courants de Foucault" loading="lazy">
                 </figure>
                 <span class="caption">Fig. 02 &mdash; First experimental model of the eddy current rotary brake</span>
               </div>
@@ -542,7 +542,7 @@
               <!-- Maquette 2 -->
               <div class="tipe-figure-item">
                 <figure class="interest-photo-frame">
-                  <img src="_assets/images/maquette2.png" alt="Deuxième maquette expérimentale du frein rotatif à courants de Foucault" loading="lazy">
+                  <img src="maquette2.png" alt="Deuxième maquette expérimentale du frein rotatif à courants de Foucault" loading="lazy">
                 </figure>
                 <span class="caption">Fig. 03 &mdash; Second experimental model of the eddy current rotary brake</span>
               </div>
@@ -590,7 +590,7 @@
             <!-- Sport Photo -->
             <div class="interest-photo-wrap">
               <figure class="interest-photo-frame">
-                <img src="_assets/images/hand.jpg" alt="Pratique du Handball" loading="lazy">
+                <img src="hand.jpg" alt="Pratique du Handball" loading="lazy">
               </figure>
             </div>
           </div>
@@ -617,7 +617,7 @@
             <!-- Activities Photo -->
             <div class="interest-photo-wrap">
               <figure class="interest-photo-frame">
-                <img src="_assets/images/musique.jpg" alt="Activités culturelles & Musique" loading="lazy">
+                <img src="musique.jpg" alt="Activités culturelles & Musique" loading="lazy">
               </figure>
             </div>
           </div>
@@ -652,13 +652,13 @@
           <div class="tp-photos-box reveal">
             <div class="tp-photo-item">
               <figure class="tp-photo-frame">
-                <img src="_assets/images/TPextensiométrie2.jpg" alt="TP Extensiométrie — Éprouvette traction" class="img-rotate-90" loading="lazy">
+                <img src="TPextensiométrie2.jpg" alt="TP Extensiométrie — Éprouvette traction" class="img-rotate-90" loading="lazy">
               </figure>
               <span class="caption">Tensile specimen</span>
             </div>
             <div class="tp-photo-item">
               <figure class="tp-photo-frame">
-                <img src="_assets/images/TPextensiométrie1.jpg" alt="TP Extensiométrie — Flexion sur poutre" loading="lazy">
+                <img src="TPextensiométrie1.jpg" alt="TP Extensiométrie — Flexion sur poutre" loading="lazy">
               </figure>
               <span class="caption">Bending test bench</span>
             </div>
@@ -683,7 +683,7 @@
         <div class="video-container reveal">
           <div class="photo-placeholder-box video-placeholder" data-placeholder="video">
             <div class="placeholder-inner">
-              <video width="640" height="360" controls poster="_assets/images/image.png">
+              <video width="640" height="360" controls poster="image.png">
                 <source src="_assets/WIN_20261028_12_26_06_Pro.mp4" type="video/mp4">
                   Your browser does not support HTML5 video playback.
               </video>
