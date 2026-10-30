@@ -600,10 +600,11 @@
                 <span class="tag-pill">Video/Board Games</span>
                 <span class="tag-pill">Reading</span>
                 <span class="tag-pill">Films/Series</span>
-                <span class="tag-pill"> Youtube Video</span>
+                <span class="tag-pill">Youtube Video</span>
                 <span class="tag-pill">Politics</span>
                 <span class="tag-pill">Seeing my friends</span>
                 <span class="tag-pill">Learning</span>
+                <span class="tag-pill">Music</span>
               </div>
             </div>
 
