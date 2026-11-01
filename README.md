@@ -680,7 +680,7 @@
               <iframe
               width="560"
               height="315"
-              src="https://www.youtube.com/embed/o3GgsqsD92g"
+              src="https://www.youtube.com/embed/FvdZ1-BIKT0"
               title="Lecteur vidéo YouTube"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
